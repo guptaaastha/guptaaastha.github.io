@@ -1,1 +1,1 @@
-An attempt at personal website.
+hello, this is my personal webiste :)
